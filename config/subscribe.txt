@@ -5,7 +5,7 @@
 # This is a list of subscription sources, with one subscription address per l
 
 https://raw.githubusercontent.com/IPTV520/zubo/refs/heads/main/IPTV.txt
-
+https://raw.githubusercontent.com/linyu345/iptv/refs/heads/main/IPTV.m3u
 
 
 [WHITELIST]
